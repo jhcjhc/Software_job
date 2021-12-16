@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2577e3</color>
+    <color name="colorPrimaryDark">#2577e3</color>
+    <color name="colorAccent">#2577e3</color>
+
+    <color name="toolbar_color">#2577e3</color>
+    <color name="toolbar_text_color">#ffffff</color>
+
+    <color name="C1">#999999</color>
+    <color name="C7">#ffffff</color>
+    <color name="TM">#00000000</color>
+    <color name="BJ">#e9e9e9</color>
+    <color name="C2">#222222</color>
+    <color name="C3">#666666</color>
+    <color name="C4">#999999</color>
+    <color name="C6">#e9e9e9</color>
+    <color name="C8">#ff5555</color>
+    <color name="C9">#ffaf3b</color>
+    <color name="C5">#ef5b9c</color>
+</resources>
